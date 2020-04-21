@@ -1,6 +1,28 @@
 // keep it commonjs export
 module.exports = [
   {
+    name: 'Felix Yeboah - Jefferson',
+    description: 'Fullstack Developer, UI/UX Designer ',
+    url: 'https://aceto.dev/uses',
+    twitter: '@aceto_ls',
+    emoji: '🌮',
+    country: '🇩🇪',
+    computer: 'windows',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'Web',
+      'React',
+      'Vue',
+      'Python',
+      'JavaScript',
+      'Django',
+      'TailwindCSS',
+      'Chakra-UI'
+    ],
+  },
+  {
     name: 'Lucas Schumacher',
     description: 'Fullstack Developer, IoT & DIY Enthusiast',
     url: 'https://aceto.dev/uses',
